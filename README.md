@@ -5,3 +5,5 @@ MERN template for any project!
 - react-redux
 - react-router-dom
 - react-icons
+- react-toastify
+- axios
